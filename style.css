@@ -7,3 +7,8 @@ font-family: 'Lobster', cursive;
 text-align: center;
 font-size: 64px;
 }
+
+.intro-button{
+    color:black;
+    padding: 20px;
+}
