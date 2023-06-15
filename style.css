@@ -11,4 +11,5 @@ font-size: 64px;
 .intro-button{
     color:black;
     padding: 20px;
+    border: 2px solid black;
 }
