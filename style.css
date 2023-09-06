@@ -7,3 +7,9 @@ font-family: 'Roboto';
 text-align: center;
 font-size: 24px;
 }
+
+.intro-button{
+    color:black;
+    padding: 20px;
+    border: 2px solid black;
+}
