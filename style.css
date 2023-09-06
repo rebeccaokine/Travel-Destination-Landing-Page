@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(100, 193, 255);
+    background-color: rgb(208, 54, 82);
 }
 
 .welcome-text{
-font-family: 'Lobster', cursive;
+font-family: 'Roboto';
 text-align: center;
-font-size: 64px;
+font-size: 24px;
 }
